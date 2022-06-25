@@ -1,6 +1,6 @@
 #Termux Command By Younis John
 Facebook: https://www.facebook.com/hellin.786
-WhatsApp: https://bit.ly/3NmZVlH
+WhatsApp: +923404708884
 Github  : https://github.com/YounisJohn
 
  First Install This All Packages
@@ -20,10 +20,10 @@ pip install rich
          No 1
     
 cd
- rm -rf  Public
- git clone https://github.com/YounisJohn/Public
- cd Public
- python X1.py
+rm -rf  Public
+git clone https://github.com/YounisJohn/Public
+cd Public
+python X1.py
 
          NO 2
         

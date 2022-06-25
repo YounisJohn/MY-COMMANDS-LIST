@@ -1,0 +1,70 @@
+# Termux Command By Younis John
+
+ First Install This All Packages
+
+termux-setup-storage
+pkg update
+pkg upgrade
+pkg install python2
+pkg install python
+pkg install git
+pip install bs4 requests
+pip2 install bs4 requests
+pip install mechanize
+pip2 install mechanize
+pip install rich
+
+         No 1
+    
+cd
+ rm -rf  Public
+ git clone https://github.com/YounisJohn/Public
+ cd Public
+ python X1.py
+
+         NO 2
+        
+cd
+rm -rf  PublicX2
+git clone https://github.com/YounisJohn/PublicX2
+cd PublicX2
+python X2.py       
+
+         NO 3
+        
+cd
+rm -rf Public-Pro
+git clone https://github.com/YounisJohn/Public-Pro
+cd Public-Pro
+python X3.py
+
+
+        No 4
+       
+cd
+rm -rf Xold-Free
+git clone https://github.com/YounisJohn/Xold-Free
+cd Xold-Free
+python Xplus.py
+
+
+       No 5
+    
+cd
+rm -rf File-Crack
+git clone https://github.com/YounisJohn/File-Crack
+cd File-Crack
+python File-Crack.py
+
+
+      No 6
+   
+cd
+rm -rf OLD-CRACK
+git clone https://github.com/YounisJohn/OLD-CRACK
+cd OLD-CRACK
+python Fuckyou.py
+
+
+      𝗦𝗼𝗼𝗻......
+ 
